@@ -1,21 +1,8 @@
-# bun-react-tailwind-template
+# Time sense
 
-To install dependencies:
+> 逝者如斯夫，不舍昼夜
+> The flow of life is like this water; ceaselessly flowing day and night
 
-```bash
-bun install
-```
+In the year of 2026, I want to read, write, build, and experience, more and more.
 
-To start a development server:
-
-```bash
-bun dev
-```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+Happy new year.
